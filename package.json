@@ -1,5 +1,5 @@
 {
-  "name": "workflow-generation",
+  "name": "n8n-workflow-generation",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
